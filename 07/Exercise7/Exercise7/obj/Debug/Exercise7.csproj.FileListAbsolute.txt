@@ -1,0 +1,6 @@
+C:\Projects\progTests\07\Exercise7\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Projects\progTests\07\Exercise7\Exercise7\bin\Debug\Exercise7.exe
+C:\Projects\progTests\07\Exercise7\Exercise7\bin\Debug\Exercise7.pdb
+C:\Projects\progTests\07\Exercise7\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+C:\Projects\progTests\07\Exercise7\Exercise7\obj\Debug\Exercise7.exe
+C:\Projects\progTests\07\Exercise7\Exercise7\obj\Debug\Exercise7.pdb

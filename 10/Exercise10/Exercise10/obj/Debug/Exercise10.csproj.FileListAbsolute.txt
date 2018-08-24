@@ -1,0 +1,7 @@
+C:\Projects\progTests\10\Exercise10\Exercise10\bin\Debug\Exercise10.exe.config
+C:\Projects\progTests\10\Exercise10\Exercise10\bin\Debug\Exercise10.exe
+C:\Projects\progTests\10\Exercise10\Exercise10\bin\Debug\Exercise10.pdb
+C:\Projects\progTests\10\Exercise10\Exercise10\obj\Debug\Exercise10.csprojAssemblyReference.cache
+C:\Projects\progTests\10\Exercise10\Exercise10\obj\Debug\Exercise10.csproj.CoreCompileInputs.cache
+C:\Projects\progTests\10\Exercise10\Exercise10\obj\Debug\Exercise10.exe
+C:\Projects\progTests\10\Exercise10\Exercise10\obj\Debug\Exercise10.pdb
